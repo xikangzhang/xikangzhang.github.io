@@ -1,4 +1,5 @@
 # Xikang Zhang
+![Xikang Zhang](head.JPG)
 ## About me
 Currently I am working as a Software Engineer at Microsoft. I am interested in computer vision, machine learning, dynamic systems and numerical optimization.
 ## Education
