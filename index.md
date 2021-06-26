@@ -1,15 +1,17 @@
-# Xikang Zhang
-![Xikang Zhang](head.JPG)
-## About me
-Currently I am working as a Software Engineer at Microsoft. I am interested in computer vision, machine learning, dynamic systems and numerical optimization.
+
+{% include module.html image_path="head.JPG" title="Xikang Zhang" description="Currently I am working as a Software Engineer at Microsoft. I am interested in computer vision, machine learning, dynamic systems and numerical optimization." %}
+
+
 ## Education
 - PhD in Electrical Engineering, Northeastern University, Boston, May 2018
 - M.Eng. in Communication and Information System, China University of Geosciences, Beijing, June 2009
 - B.Eng. in Information Engineering, Zhejiang University, June 2005
+
 ## Work Experience
 - SDE, Microsoft, July 2018 - now
 - Algorithm Intern in Computer Vision Toolbox team, Mathworks, Natick MA,  May 2015 - August 2015
 - Research Intern, VideoIQ (Acquired by Avigilon), Bedford MA, May 2012 - December 2012
+
 ## Projects involved in research or courses
 - action classification
 - action localization
@@ -22,6 +24,7 @@ Currently I am working as a Software Engineer at Microsoft. I am interested in c
 - primate behavour analysis with computer vision
 - PTZ camera control
 - switched/hybrid system identification with error-in-variable (EIV) model
+
 ## Publication
 - **Xikang Zhang**, Mario Sznaier, and Octavia Camps, “Efficient identification of error-in variables switched systems based on riemannian distance-like functions", Conference on Decision and control (CDC), 2018. [pdf](Zhang_CDC2018.pdf)
 - **Xikang Zhang**, Bengisu Ozbay, Mario Sznaier, and Octavia Camps, “Dynamics Enhanced Multi-Camera Motion Segmentation from Unsynchronized Videos”, International Conference on Computer Vision (ICCV), 2017. [pdf](Zhang_McRSIM_iccv17.pdf) [code](https://github.com/xikangzhang/McRSIM)
